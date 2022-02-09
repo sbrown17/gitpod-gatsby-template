@@ -1,8 +1,8 @@
 {
-  "name": "stuart-brown-dev",
+  "name": "gitpod-gatsby-template",
   "version": "1.0.0",
   "private": true,
-  "description": "StuartBrown-Dev",
+  "description": "A template for gatsby on gitpod",
   "author": "Stuart Brown",
   "keywords": [
     "gatsby"

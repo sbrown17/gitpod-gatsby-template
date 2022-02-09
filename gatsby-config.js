@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-      title: `StuartBrown-Dev`,
+      title: `gitpod-gatsby-template`,
         siteUrl: `https://www.yourdomain.tld`,
     },
     plugins: [
