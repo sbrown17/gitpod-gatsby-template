@@ -2,28 +2,9 @@ image:
   file: .gitpod.Dockerfile
 tasks:
   - init: >
-      npm i &&
-      touch /tmp/done.txt
+      npm i
     command: >
       npm run develop
-  # - openMode: split-right
-  #   before: >
-  #     cd ./examples/gatsbygram
-  #   command: >
-  #     gp await-port 8000 &&
-  #     gatsby-dev --set-path-to-repo ../.. &&
-  #     gatsby-dev
-  # - before: >
-  #     cd ./examples/gatsbygram
-  #   init: |
-  #     until [ -f /tmp/done.txt ]
-  #     do
-  #         sleep 2
-  #     done
-  #   command: >
-  #     npx gatsby develop
 ports:
   - port: 8000
     onOpen: open-preview
-  # - port: 31997 # yarn mutex
-  #   onOpen: ignore
