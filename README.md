@@ -7,6 +7,12 @@
   Gatsby minimal starter
 </h1>
 
+## Gitpod
+
+1. **Use this template for development in Gitpod!**
+    
+    [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#<your-project-url>)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
