@@ -12,8 +12,11 @@
 1. **Use this template for development in Gitpod!**
     
     [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sbrown17/gitpod-gatsby-template)
+    Don't forget to change the link in this button upon forking the repo!
 
 ## 🚀 Quick start
+
+**The first two steps below should be handled by gitpod on startup, the in app browser may need to be reloaded at startup**
 
 1.  **Create a Gatsby site.**
 
